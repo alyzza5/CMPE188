@@ -1,0 +1,17 @@
+Categories:
+ACC - Accident complaint
+ALL - Alleys
+APP - Appliances
+CON - Construction Material
+COU - Couch/Sofa
+FUR - Furniture
+GAR - Garbage
+GLA - Glass
+HAZ - Haz Mat
+LIT - Litter
+MAT - Mattresses
+OTH - Other
+REF - Refrigerators
+TIR - Tires
+TV
+YW - Yard Waste
