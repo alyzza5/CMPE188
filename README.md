@@ -11,3 +11,5 @@ preprocessing steps
 - (DONE) delete null location for dump set
 - (CANCELED) remove nulls from 911 data, canceled, 
 
+To Do:
+- find correlations between category of illegal dumping and dist. to streetlight
