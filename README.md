@@ -13,3 +13,4 @@ preprocessing steps
 
 To Do:
 - find correlations between category of illegal dumping and dist. to streetlight
+- based on type of dumping, predict distance from streetlight 
